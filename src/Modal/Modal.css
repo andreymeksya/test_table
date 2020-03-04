@@ -1,0 +1,5 @@
+.tableModal{
+    position: absolute;
+    width: 500px;
+    margin-left: calc((60% - 500px) / 2);
+}
